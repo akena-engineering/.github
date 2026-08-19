@@ -1,6 +1,10 @@
 <div align="center">
   <a href="https://akena.co">
-    <img src="https://akena.co/og-image.png" alt="AKENA - Ambitious ideas deserve exceptional engineering" width="800" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+      <img src="./assets/header-dark.svg" width="880" alt="AKENA - Ambitious ideas deserve exceptional engineering" />
+    </picture>
   </a>
   <br /><br />
 
