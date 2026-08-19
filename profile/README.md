@@ -36,7 +36,7 @@ operate what we build. No hype, just engineering.
 - **Applied cryptography** · Threshold ECDSA systems, including a Bitcoin-Ethereum bridge.
 - **Open source** · A browser-based Web3 wallet and public developer tooling.
 
-## Our projects
+## Our in-house projects
 
 <a href="https://github.com/boar-network">
   <img src="https://img.shields.io/badge/Boar_Network-0C0A09?style=for-the-badge" alt="Boar Network" />
@@ -44,10 +44,14 @@ operate what we build. No hype, just engineering.
 
 [**Boar Network**](https://github.com/boar-network) is our blockchain
 infrastructure brand. It operates enterprise-grade nodes and publishes open
-tooling. Start with
-[blockchain-mcp](https://github.com/boar-network/blockchain-mcp), a free
-blockchain MCP for AI agents, backed by Boar infrastructure. More at
-[boar.network](https://boar.network).
+tooling.
+
+- **[Boar RPC](https://boar.network)** · High-performance RPC endpoints for all
+  major blockchain networks, with real-time analytics and usage insights.
+- **[Boar Finance](https://boar.finance)** · Digital asset wealth management.
+  Automated, institutional-grade Bitcoin strategies with real on-chain earnings.
+- **[blockchain-mcp](https://github.com/boar-network/blockchain-mcp)** · A free
+  blockchain MCP for AI agents, backed by Boar infrastructure.
 
 ## Work with us
 
