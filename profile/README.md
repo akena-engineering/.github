@@ -44,7 +44,7 @@ operate what we build. No hype, just engineering.
 
 [**Boar Network**](https://github.com/boar-network) is our blockchain
 infrastructure brand. It operates enterprise-grade nodes and publishes open
-tooling. More at [boar.network](https://boar.network).
+tooling.
 
 - **[Boar RPC](https://boar.network)** · High-performance RPC endpoints for all
   major blockchain networks, with real-time analytics and usage insights.
